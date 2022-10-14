@@ -1,6 +1,5 @@
-# HELLO BRO THIS TOOLS IS A RANDOM OLD ID &
-gmail cloning,
-let's enjoy 😎
+# HELLO BRO THIS TOOLS IS A RANDOM OLD ID & GMAIL CLONING ARE PAID
+SO BRO ENJOY 😎
 
 $ pip install requests
 $ pip install futures
